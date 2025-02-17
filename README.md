@@ -4,9 +4,3 @@ This repository contains the **Wine Quality Prediction** project, implemented in
 
 ---
 
-## 📂 Project Structure
-```plaintext
-Summer-Projects_June/
-├── Wine Quality Prediction.ipynb
-├── dataset/  # (Optional) Folder containing the wine quality dataset
-└── README.md
